@@ -3,10 +3,12 @@
 
 This challenge is meant to summarize and analyze ride data for decision makers at PyBer. The compiled data provided is in two different datasets:
 
-* First: citi_data.csv lists the number of drivers that services cities in three area types: Urban, Suburban, and Rural.
+* First: city_data.csv lists the number of drivers that services cities in three area types: Urban, Suburban, and Rural.
 * Second: ride_data.csv is more detailed and provides metrics into the dates on which the rides took place and the rates from which cities charged to customers.
 
 ## Analysis
+![Rides and Fares by City Types ](https://github.com/ZacharyPascalar/Module-05_PyBer-with-Matplotlib/blob/main/Dataframe%20-%20PyBer.png)
+![Total Far by City Type](https://github.com/ZacharyPascalar/Module-05_PyBer-with-Matplotlib/blob/main/Total%20Fare%20by%20City%20Type.png)
 
 Since the two data sets intersect -via city field- we simply merged them and extrapolated information such as:
 
