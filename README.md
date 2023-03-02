@@ -14,7 +14,7 @@ Since the two data sets intersect -via city field- we simply merged them and ext
 
 * total rides by areas;
 * number of drivers the three (3) areas identified earlier;
-* the total amount of fares PyBer has collected in these areas. 60% of Pyber's revenue comes from rides in urban areas banking $39,854 (see Attchement 1). There is potential in other areas if they were to decrease their fares in the in the suburban and rural areas. PyBer's services are relevant in urban and suburban cities. A campaign targeting these areas with fares that appeal to both drivers and customers could be profitable. Attachment 1 shows revenue and rides per areas. Given more time we could run a model in which we experimented with fares and showcase the revenues they could have generated.
+* the total amount of revenue PyBer has collected in these areas. 60% of Pyber's revenue comes from rides in urban areas amount to $39,854 (see Attachment 1). There is potential in other areas if they were to decrease their fares in the in the suburban and rural areas. PyBer's services are particularly used in urban and suburban cities. A campaign targeting these areas with fares that appeal to both drivers and customers could be profitable. Attachment 1 shows revenue and rides per areas. Given more time we could run a model in which we experimented with fares and showcase the revenues they could have generated.
 
 ## Recommendations to CEO
 
